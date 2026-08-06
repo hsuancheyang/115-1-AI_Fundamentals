@@ -59,6 +59,20 @@
 | **五** | 英語與資訊應用      | Obsidian、Opencode、Gemini、Gemini Notebook(NotebookLM)                                                                                                             | 用 Gemini Notebook 及 Obsidian 協助整理知識來源、筆記，再用 Gemini Notebook 進行 Rag 生成多樣產出（字卡、報告、測驗、圖表與簡報）。                                                                    | 完成 NotebookLM 分享以及產出合宜的 字卡、報告、測驗、圖表與簡報...。                                               |
 | **六** | AI倫理與專題發表    | 綜合討論                                                                                                                                                            | 討論隱私、偏誤、著作權與學術誠信，並用簡報或海報發表期末成果。                                                                                                                                         | 完成期末小專題                                                                                                     |
 
+# ==**補充：**==
+
+## 透過地端伺服器模型提供 opencode 連線
+
+[設置指南，分為三大階段：安裝 Ollama → 拉取並運行模型 → 安裝並配置 OpenCode。](Ollama+Opencode.md)
+
+---
+
+### ▸ 目標
+
+- 完全離線/本地運行 LLM，零雲端 API Key
+- Windows 環境使用 Ollama 管理地端模型
+- OpenCode 連接地端模型，直接用於專案開發
+
 ---
 
 ## 🛠️ 工具一覽表
