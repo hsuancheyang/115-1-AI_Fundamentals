@@ -4,7 +4,7 @@
 
 ### Step 1：執行安裝 opencode
 
-在 PowerShell（以管理員身分）或終端機中選擇一種方法：
+在 PowerShell（以管理員身分）或終端機 (cmd) 命令提示字元 中選擇一種方法：
 
 **方法 A — Scoop（Windows 推薦）**
 
@@ -12,7 +12,7 @@
 scoop install opencode
 ```
 
-**方法 B — npm（Node.js 需已安裝）** 課堂使用方法
+**方法 B — npm（Node.js 需已安裝）** ==課堂使用方法==
 
 ```powershell
 npm install -g opencode-ai
